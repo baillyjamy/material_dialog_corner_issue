@@ -9,6 +9,7 @@
     </style>
 
     <style name="ThemeOverlay.App.MaterialAlertDialog" parent="ThemeOverlay.MaterialComponents.MaterialAlertDialog">
+        <item name="colorPrimary">@android:color/holo_red_light</item>
         <item name="shapeAppearanceOverlay">@style/ShapeAppearanceOverlay.App.MaterialAlertDialog</item>
     </style>
 
